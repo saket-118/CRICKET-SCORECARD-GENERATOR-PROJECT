@@ -1,0 +1,89 @@
+Here are the score cards : 
+batsmen : 1
+batsmen name : Rohit Sharma
+Score : 67
+batting status : batted
+balls : 49
+sixers : 3
+fours : 6
+
+batsmen : 2
+batsmen name : S Dhawan
+Score : 23
+batting status : batted
+balls : 15
+sixers : 0
+fours : 3
+
+batsmen : 3
+batsmen name : Kohli
+Score : 28
+batting status : batted
+balls : 22
+sixers : 1
+fours : 1
+
+batsmen : 4
+batsmen name : Pant
+Score : 4
+batting status : batted
+balls : 4
+sixers : 0
+fours : 0
+
+batsmen : 5
+batsmen name : Pandey
+Score : 6
+batting status : batted
+balls : 7
+sixers : 0
+fours : 0
+
+batsmen : 6
+batsmen name : Krunal
+Score : 20
+batting status : batted
+balls : 12
+sixers : 2
+fours : 0
+
+batsmen : 7
+batsmen name : Jadeja
+Score : 9
+batting status : batted
+balls : 3
+sixers : 1
+fours : 0
+
+batsmen : 8
+batsmen name : Washington Sundar
+Score : 0
+batting status : yet to bat
+balls : 0
+sixers : 0
+fours : 0
+
+batsmen : 9
+batsmen name : Bhuvneshwar Kumar
+Score : 0
+batting status : yet to bat
+balls : 0
+sixers : 0
+fours : 0
+
+batsmen : 10
+batsmen name : Khaleel Ahmed
+Score : 0
+batting status : yet to bat
+balls : 0
+sixers : 0
+fours : 0
+
+batsmen : 11
+batsmen name : Navdeep Saini 
+Score : 0
+batting status : yet to bat
+balls : 0
+sixers : 0
+fours : 0
+
